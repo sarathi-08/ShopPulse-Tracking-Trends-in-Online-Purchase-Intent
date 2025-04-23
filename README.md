@@ -51,7 +51,7 @@ This project dives deep into the intriguing world of online shopper behavior. Us
 ## **Getting Started**
 
 1. Clone the repo  
-2. Run the Jupyter Notebook (`exploratory_analysis.ipynb`)  
+2. Run the Jupyter Notebook (`new_main.ipynb`)  
 3. Open the Power BI dashboard  
 4. Pretend like you didn’t spend half the time fixing datetime formats
 
